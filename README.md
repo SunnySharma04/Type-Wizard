@@ -25,7 +25,7 @@ Enter Input Text: The text you want to be typed.
 Press the Type Button: The application will type the text automatically.
 
 
-Author
-👨‍💻 Sunny Sharma
-📌 GitHub Profile
-📌 LinkedIn
+## Author
+👨‍💻 **Sunny Sharma**  
+📌 [GitHub Profile](https://github.com/SunnySharma04)  
+📌 [LinkedIn](https://www.linkedin.com/in/sunny-sharma-2487312a7)  
