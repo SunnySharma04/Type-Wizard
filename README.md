@@ -5,7 +5,7 @@ Instead of pasting, it types the text for you, key-by-key, just like a human wou
 How It Works
 Any input you give to this application will be typed automatically by simulating keyboard presses in that exact sequence.
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88069082/132242221-366deee5-c49e-4ff6-b220-6d12d659f00f.png" /> </p>
+
 Features
 Works even when copy-paste is blocked.
 
